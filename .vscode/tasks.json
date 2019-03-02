@@ -12,6 +12,14 @@
             ]
         },
         {
+            "taskName": "run-program",
+            "command": "./design_pattern",
+            "type": "shell",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
             "taskName": "clean-program",
             "command": "make clean",
             "type": "shell",
