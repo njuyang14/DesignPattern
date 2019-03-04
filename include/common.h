@@ -5,5 +5,6 @@
 
 
 void factory_main();
+void singleton_main();
 
 #endif
